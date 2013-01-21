@@ -52,7 +52,7 @@ namespace BankTest
         {
             // arrange
             double beginningBalance = 11.99;
-            double debitAmount = 800.00;
+            double debitAmount = 8000.00;
             BankAccount account = new BankAccount("Mr. Byran Walton", beginningBalance);
 
             // act

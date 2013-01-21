@@ -5,3 +5,10 @@ c:\Users\Jamie\documents\visual studio 2012\Projects\Bank\BankTest\bin\Debug\Ban
 c:\Users\Jamie\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
 c:\Users\Jamie\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.dll
 c:\Users\Jamie\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\Bank\BankTest\obj\Debug\BankTest.pdb

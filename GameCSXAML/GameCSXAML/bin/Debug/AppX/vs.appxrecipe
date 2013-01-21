@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-21T22:31:25.330</Modified>
+      <Modified>2013-01-21T23:11:22.108</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.exe">
       <PackagePath>GameCSXAML.exe</PackagePath>
-      <Modified>2013-01-21T22:55:23.769</Modified>
+      <Modified>2013-01-21T23:11:17.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.pdb">
       <PackagePath>GameCSXAML.pdb</PackagePath>
-      <Modified>2013-01-21T22:55:23.645</Modified>
+      <Modified>2013-01-21T23:11:16.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-01-21T22:31:22.597</Modified>
+      <Modified>2013-01-21T23:11:18.452</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

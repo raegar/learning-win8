@@ -1,0 +1,2 @@
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\GameCSXAML.csproj;neutral
+C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameUnitTestLibrary\GameUnitTestLibrary.csproj;neutral

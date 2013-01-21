@@ -52,8 +52,8 @@ namespace BankTest
         {
             // arrange
             double beginningBalance = 11.99;
-            double debitAmount = 100.00;
-            BankAccount account = new BankAccount("Mr. Bryan Walton", beginningBalance);
+            double debitAmount = 800.00;
+            BankAccount account = new BankAccount("Mr. Byran Walton", beginningBalance);
 
             // act
             account.Debit(debitAmount);

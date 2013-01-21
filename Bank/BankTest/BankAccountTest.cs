@@ -55,7 +55,7 @@ namespace BankTest
             double debitAmount = 8000.00;
             BankAccount account = new BankAccount("Mr. Byran Walton", beginningBalance);
 
-            // act
+            // acting
             account.Debit(debitAmount);
 
             // assert is handled by ExpectedException

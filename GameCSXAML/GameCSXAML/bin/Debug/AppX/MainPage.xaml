@@ -8,6 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="btn1" Content="Button" HorizontalAlignment="Left" Margin="725,199,0,0" VerticalAlignment="Top"                       />
+        <Button x:ConnectionId='2' x:Name="btn2" Content="Button" HorizontalAlignment="Left" Margin="725,242,0,0" VerticalAlignment="Top"                       />
 
     </Grid>
 </Page>

@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.exe">
       <PackagePath>GameCSXAML.exe</PackagePath>
-      <Modified>2013-01-21T22:31:18.295</Modified>
+      <Modified>2013-01-21T22:55:23.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.pdb">
       <PackagePath>GameCSXAML.pdb</PackagePath>
-      <Modified>2013-01-21T22:31:18.093</Modified>
+      <Modified>2013-01-21T22:55:23.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-01-21T22:26:43.805</Modified>
+      <Modified>2013-01-21T22:52:06.193</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

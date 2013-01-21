@@ -15,10 +15,6 @@ C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\MainPage.xaml
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\GameCSXAML.exe
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\GameCSXAML.pdb
-C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\priconfig.xml.intermediate
-C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\layout.resfiles.intermediate
-C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\resources.resfiles.intermediate
-C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\pri.resfiles.intermediate
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\priconfig.xml
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\layout.resfiles
 C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\obj\Debug\resources.resfiles

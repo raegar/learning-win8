@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAMIETABLET</Machine>
+    <WindowsUser>Jamie</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>20D7454E5AB3B0529CB182A41715D84C4E7469C6BCC9161F07474F70CE6E6666</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c50fead1-ea1c-4fb5-8bc5-e77b79c6653e_1.0.0.0_neutral__92cy3th2bzc58</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c50fead1-ea1c-4fb5-8bc5-e77b79c6653e_92cy3th2bzc58!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c50fead1-ea1c-4fb5-8bc5-e77b79c6653e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jamie</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-21T22:31:25.330</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.exe">
+      <PackagePath>GameCSXAML.exe</PackagePath>
+      <Modified>2013-01-21T22:31:18.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\GameCSXAML.pdb">
+      <PackagePath>GameCSXAML.pdb</PackagePath>
+      <Modified>2013-01-21T22:31:18.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-21T22:26:43.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-21T22:26:43.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jamie\Documents\Visual Studio 2012\learning-win8\GameCSXAML\GameCSXAML\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-21T22:31:22.597</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

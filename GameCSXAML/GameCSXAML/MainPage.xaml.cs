@@ -45,5 +45,10 @@ namespace GameCSXAML
         {
             Debug.WriteLine("Button 2");
         }
+
+        private void changeColor(object sender, DragEventArgs e)
+        {
+            elpHomeWorld.Fill = 
+        }
     }
 }
